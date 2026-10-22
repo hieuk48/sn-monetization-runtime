@@ -1,0 +1,49 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1600095	bitcoin	1	10895	0	3	3.5	714537	51	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Activism (Not a Social Movement)
+1600105	tech	1	1081	0	1	3.3	777209	63	recent@tech|top@tech	HOT,SIGNAL	Unpatched CVSS 9.0 Linux kernel RCEs accidentally posted to public LKML
+1600098	AI	1	879	0	1	3.5	21800	497	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Sell inference on Mesh LLM and get paid directly to Alby Hub via NWC
+1600003	bitcoin	1	873	0	5	6.5	13531	1748	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	What is CoinOS's "renew" feature
+1600000	bitcoin	1	712	0	2	7.6	12309	3740	recent@bitcoin|top@bitcoin	SIGNAL	EU Nears Market Securitization Reform in Bid to Unleash Billions
+1600161	bitcoin	1	477	0	0	0.9	74100	13361	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Class action lawsuit filed against Coinkite in Ontario
+1600130	AI	1	360	0	0	2.0	1597874	16	recent@AI|top@AI	FRESH,SIGNAL	why do harnesses have shell access?
+1600063	lightning	1	356	0	0	4.3	272410	2018	recent@lightning|top@lightning	SIGNAL	lnd v0.20.6-beta.rc1: The Latest Lightning Network Release Candidate is Live
+1600002	bitcoin	1	319	0	0	6.8	12309	3740	recent@bitcoin|top@bitcoin	SIGNAL	turning mercury into real, stable gold, beating CERN’s record by a factor of 10
+1600026	AI	1	314	0	0	5.3	12309	3740	recent@tech|top@tech|recent@AI	SIGNAL	Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM
+1600108	lol	2	199	0	0	3.2	280679	23832	recent@AI|top@AI	SIGNAL	Good thing it's somebody else's money
+1600106	bitcoin_beginners	1	172	0	0	3.3	263526	1013	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Setting up Lightning nodes in 2026
+1600056	bitcoin	1	138	0	1	4.5	296825	5667	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	25+ Bitcoin circular economies, investigated. Are they overhyped OR a big deal?
+1600021	meta	1	121	0	0	5.5	36151	1681	recent@meta|top@meta	SIGNAL	This Day on SN: October 22
+1599321	news	2	5728	0	2	29.3	1599170	4	recent@bitcoin|recent@bitdevs	HOT	Bitcoin’s Missing Bit
+1599743	Geyser_community	3	3117	0	4	19.2	144357	4687	recent@bitcoin|top@bitcoin	HOT	A Home for Bitcoin Builders - PlebLab Guadalajara
+1599600	bitcoin	1	2252	0	14	22.6	74100	13361	recent@bitcoin|top@bitcoin	HOT	Here come the "blockchain not Bitcoin" guys again
+1599913	news	2	1926	0	5	13.6	74100	13361	recent@devs|top@devs	HOT,SELF_POST_OPP	php, nodejs...and here comes Java!
+1599783	tech	1	1618	0	6	17.7	1	27748	recent@devs|top@devs|recent@tech	HOT	Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE
+1599930	tech	1	1456	0	2	13.3	1570149	22	recent@tech|top@tech	HOT	I made a p2p app for sharing files through persistent tunnels with trusted peers
+1599443	tech	1	1449	0	5	25.4	934367	1122	recent@tech	HOT	eMudhra's CA keys cracked in milliseconds
+1599500	AskSN	2	1397	0	5	24.6	724606	13616	recent@AI	HOT,SELF_POST_OPP	Are Humans Still “the Ultimate Resource”? (HP, Alex Hammond)
+1599451	AI	1	978	0	1	25.2	1	27748	recent@devs|recent@tech|recent@AI		PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web
+1599879	bitcoin	1	905	0	7	14.9	30782	26085	recent@bitcoin|top@bitcoin		Business As Usual After Liquid Hack: Back - Bloomberg
+1599698	devs	1	810	0	1	20.5	163128	3981	recent@devs|top@devs		🚨 Node.js Vulnerability — October 21, 2026 Security Releases
+1599739	bitcoin	1	783	0	8	19.3	1570149	22	recent@bitcoin|top@bitcoin		Are there any FROST-capable wallets that I can run on old phones?
+1599290	AI	1	756	0	0	30.6	12309	3740	recent@devs|recent@tech|recent@AI		DeepSeek opensources Inference Software
+1599790	AI	1	532	0	1	17.5	74100	13361	recent@nostr|top@nostr|recent@devs		Speaking Feather into existence - Gigi
+1599770	bitcoinplusplus	1	510	0	1	18.2	280679	23832	recent@bitcoinplusplus|top@bitcoinplusplus		Can Bitcoin Payments Survive the AI Onslaught? — Calle, joschisan, Elias Rohrer,
+1599371	bitcoin	1	478	0	6	27.6	296825	5667	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoin_Mining		Bitcube - Home Bitcoin Miner with Touchscreen
+1599447	bitcoin	1	469	0	14	25.3	30782	26085	recent@bitcoin		Bitcoin Fiction for Sats — Andrew Westhead
+1599379	math	2	360	0	1	27.3	280679	23832	recent@AI		AI Proved the Quasi-Riemann Hypothesis. What Happens Now?
+1599412	AI	1	292	0	0	26.3	402772	22727	recent@AI		AI will make it possible to design and build organisms from scratch
+1599506	meta	1	261	0	3	24.5	36151	1681	recent@meta		What are you working on this week?
+1599838	AI	1	260	0	0	16.1	1575305	47	recent@AI|top@AI		Linus Torvalds ships his first AI-assisted kernel patch and clocks a 23x speedup
+1599938	AI	1	250	0	0	12.8	297791	7979	recent@AI|top@AI		OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So
+1599687	AI	1	124	0	2	20.6	238412	374	recent@AI|top@AI		Getty Images Bankrupt
+1599920	AI	1	89	0	0	13.5	1532699	432	recent@AI|top@AI		Meta's Most Powerful Open AI Model Runs on a Mac. Well, Two Macs.
+1599184	bitcoin_beginners	1	72	0	0	35.9	1301409	78	recent@bitcoin_beginners		Not Yours Keys, Not Your Coins
+1599351	AI	1	68	0	0	28.2	296825	5667	recent@bitcoin_beginners|recent@AI		No Hedge on Earth
+1599265	AI	1	67	0	0	31.6	182100	853	recent@AI		AI influencers - 3 questions
+1599340	AI	1	57	0	0	28.5	272410	2018	recent@AI		Meta's Muse AI Agent Caught Leaking Users' Intimate Personal Information
+1599475	AI	1	56	0	0	24.9	402772	22727	recent@AI		OpenAI's AI models disabled their own safety monitoring — and one lied about it
+1599617	AI	1	47	0	0	22.2	1575305	47	recent@AI|top@AI		GPT-5.6 found a PHP flaw so bad OpenAI looped in the White House to patch it
+1599468	AI	1	47	0	0	25.0	297791	7979	recent@AI		Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck
+1599429	devs	1	36	0	1	25.7	297791	7979	recent@devs		EU cybersecurity team says unpatched PHP sites may need to go offline
+1599808	bitcoin_Mining	1	11	0	0	16.9	1532836	1442	recent@bitcoin_Mining|top@bitcoin_Mining		Blockparty #45 Rigly's
+1599708	bitcoin_Mining	1	11	0	0	19.9	280679	23832	recent@bitcoin_Mining|top@bitcoin_Mining		Controlflow Balancing Rules: Keep Your Mining Site Within Its Power Limit
