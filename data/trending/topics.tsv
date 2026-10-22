@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-22T14:53:38.337Z; n=40
-cvss	sn:tech	6.24	yes	
-meta	hn,sn:news	5.58	yes	
-what	hn,sn:bitcoin	4.59	yes	
-home	hn,sn:Geyser_community	4.49	yes	
-pleb economist	sn:math	4.37	no	RISING
-the secretary problem	sn:math	4.37	no	RISING
-bitcoin activism	sn:bitcoin	4.04	yes	
-social movement	sn:bitcoin	4.04	yes	
+# generated 2026-10-22T19:46:07.836Z; n=40
+show	hn	8.2	yes	
+cvss	sn:tech	6.25	yes	
+google	hn,sn:AI	5.44	yes	
+what	hn,sn:bitcoin	5.42	yes	
+hashrate hearth	sn:bitcoin	4.28	yes	
+freedom-bulb	sn:bitcoin	4.28	yes	
+bitcoin activism	sn:bitcoin	4.06	yes	
+social movement	sn:bitcoin	4.06	yes	
 why do people fear progress	sn:AskSN	3.78	no	RISING
 psychology	sn:AskSN	3.78	no	RISING
 progress	sn:AskSN	3.78	no	RISING
 adam omary	sn:AskSN	3.78	no	RISING
+heatbit	sn:bitcoin	3.5	yes	
+bitwater	sn:bitcoin	3.5	yes	
+home	sn:Geyser_community	3.49	yes	
 bitcoin builders	sn:Geyser_community	3.49	yes	
 guadalajara	sn:Geyser_community	3.49	yes	
-here	sn:bitcoin	3.35	yes	
-bitcoin	sn:bitcoin	3.35	yes	
+math puzzle	sn:math	3.39	no	RISING
+sequence	sn:math	3.39	no	RISING
+square pairs	sn:math	3.39	no	RISING
 java	sn:news	3.28	no	RISING
 critical	sn:tech	3.21	yes	
 flaw	sn:tech	3.21	yes	
 could allow unauthenticated	sn:tech	3.21	yes	
-are humans still	sn:AskSN	3.15	yes	
-ultimate resource	sn:AskSN	3.15	yes	
-alex hammond	sn:AskSN	3.15	yes	
-homemade	sn:Animal_World	3.08	no	RISING
-daily discussion thread	sn:Music	3.06	no	RISING
-music saloon	sn:Music	3.06	no	RISING
-the value	sn:Politics_And_Law	3.03	no	RISING
-free	sn:Politics_And_Law	3.03	no	RISING
-services	sn:Politics_And_Law	3.03	no	RISING
-great unbundling	sn:Politics_And_Law	3.03	no	RISING
-telegraph	sn:Politics_And_Law	3.03	no	RISING
-kaminska	sn:Politics_And_Law	3.03	no	RISING
-unpatched	sn:tech	3.03	yes	
-linux	sn:tech	3.03	yes	
-lkml	sn:tech	3.03	yes	
-chemical tank explodes	sn:news	2.98	no	RISING
-ohio	sn:news	2.98	no	RISING
-forcing evacuations	sn:news	2.98	no	RISING
-business as usual after liquid hack	sn:bitcoin	2.96	yes	
-back	sn:bitcoin	2.96	yes	
+sell	sn:AI	3.08	yes	
+mesh	sn:AI	3.08	yes	
+alby hub	sn:AI	3.08	yes	
+virginia state sen	sn:Politics_And_Law	3.08	no	RISING
+arrested	sn:Politics_And_Law	3.08	no	RISING
+accused of masterminding criminal drug enterprise	sn:Politics_And_Law	3.08	no	RISING
+daily discussion thread	sn:Music	3.07	no	RISING
+music saloon	sn:Music	3.07	no	RISING
+unpatched	sn:tech	3.04	yes	
+linux	sn:tech	3.04	yes	
+lkml	sn:tech	3.04	yes	
+bitcoin-smol	sn:bitcoin	3.02	yes	
+nostr	sn:nostr	3	yes	
+ride	sn:nostr	3	yes	
+gameboy color	sn:gaming	3	yes	
+finland	sn:AI	3	yes	
