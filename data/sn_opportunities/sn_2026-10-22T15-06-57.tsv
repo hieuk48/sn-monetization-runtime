@@ -1,0 +1,101 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1600095	bitcoin	1	10846	0	1	3.2	714537	51	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Activism (Not a Social Movement)
+1600105	tech	1	1081	0	0	2.9	777209	63	recent@tech|top@tech	HOT,SIGNAL	Unpatched CVSS 9.0 Linux kernel RCEs accidentally posted to public LKML
+1600098	AI	1	879	0	1	3.1	21800	497	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Sell inference on Mesh LLM and get paid directly to Alby Hub via NWC
+1600003	bitcoin	1	873	0	5	6.1	13531	1748	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	What is CoinOS's "renew" feature
+1600040	Travel	3	813	0	3	4.4	51481	4317	recent@news|top@news	SIGNAL	Deadly Shamonda virus detected in human for first time in France
+1600067	AskSN	2	724	0	9	3.8	509957	4946	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	2026-27 UCL Pool: Week 3 recap and standings
+1600000	bitcoin	1	712	0	2	7.2	12309	3739	recent@bitcoin|top@bitcoin|recent@econ	SIGNAL	EU Nears Market Securitization Reform in Bid to Unleash Billions
+1600032	news	2	614	0	2	4.6	51481	4317	recent@Stacker_Stocks|top@Stacker_Stocks|recent@news	SIGNAL	Meta strikes deal to keep Zuckerberg in California after wealth tax concerns
+1599975	AskSN	2	513	0	10	9.3	104755	13450	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	School Uniforms - yay or nay?
+1600161	bitcoin	1	477	0	0	0.5	74100	13360	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Class action lawsuit filed against Coinkite in Ontario
+1600131	Stacker_Sports	3	416	0	3	1.5	1202928	344	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Will combined points across all 2026–27 NBA games top 300,000?
+1600130	AI	1	360	0	0	1.6	1597874	15	recent@AI|top@AI	FRESH,SIGNAL	why do harnesses have shell access?
+1600063	lightning	1	356	0	0	3.9	272410	2017	recent@lightning|top@lightning	SIGNAL	lnd v0.20.6-beta.rc1: The Latest Lightning Network Release Candidate is Live
+1600126	trading	3	348	0	0	1.8	144450	116	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	King of Death-Spiral Financing: Riding Bitcoin to Top of Japan’s Capital Mar...
+1600002	bitcoin	1	319	0	0	6.4	12309	3739	recent@bitcoin|top@bitcoin|recent@econ	SIGNAL	turning mercury into real, stable gold, beating CERN’s record by a factor of 10
+1600026	AI	1	314	0	0	4.9	12309	3739	recent@tech|top@tech|recent@AI	SIGNAL	Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM
+1600103	charts_and_maps	2	267	0	2	3.0	280679	23832	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Countries With the Most Debt to China
+1600170	math	2	240	0	0	0.2	1562189	213	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Miner Subsidy Crisis & Unit Bias: Why Bitcoin Needs a Transactional UoA
+1600108	lol	2	199	0	0	2.8	280679	23832	recent@AI|top@AI|recent@lol	SIGNAL	Good thing it's somebody else's money
+1599992	Stacker_Stocks	2	184	0	0	8.2	1054143	1445	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Stock Market: Will S&P 500 Open Up or Down Today?
+1600106	bitcoin_beginners	1	172	0	0	2.9	263526	1013	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Setting up Lightning nodes in 2026
+1600056	bitcoin	1	138	0	1	4.1	296825	5667	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	25+ Bitcoin circular economies, investigated. Are they overhyped OR a big deal?
+1600021	meta	1	121	0	0	5.1	36151	1681	recent@meta|top@meta	SIGNAL	This Day on SN: October 22
+1599572	math	2	23510	0	31	22.9	48657	16260	recent@math|top@math|recent@econ	HOT	Pleb Economist #14: The Secretary Problem
+1599758	AskSN	2	6040	0	29	18.4	724606	13616	recent@econ|top@econ|recent@AskSN	HOT	Why Do People Fear Progress? (Psychology of Progress, Adam Omary)
+1599321	news	2	5728	0	2	28.9	1599170	4	recent@bitcoin|recent@bitdevs|recent@news	HOT	Bitcoin’s Missing Bit
+1599355	art	3	3317	0	2	27.8	988069	328	recent@BooksAndArticles	HOT	MOVIES, MOVIES, MOVIES! (and some other stuff)
+1599743	Geyser_community	3	3117	0	4	18.9	144357	4687	recent@bitcoin|top@bitcoin	HOT	A Home for Bitcoin Builders - PlebLab Guadalajara
+1599180	econ	2	2306	0	4	35.6	1595525	7	recent@econ	HOT	Framing the question: what is money?
+1599600	bitcoin	1	2252	0	14	22.2	74100	13360	recent@bitcoin|top@bitcoin|recent@Stacker_Stocks	HOT	Here come the "blockchain not Bitcoin" guys again
+1599913	news	2	1926	0	5	13.2	74100	13360	recent@devs|top@devs|recent@news	HOT,SELF_POST_OPP	php, nodejs...and here comes Java!
+1599783	tech	1	1618	0	6	17.4	1	27748	recent@devs|top@devs|recent@tech	HOT	Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE
+1599930	tech	1	1456	0	1	12.9	1570149	22	recent@tech|top@tech	HOT	I made a p2p app for sharing files through persistent tunnels with trusted peers
+1599443	tech	1	1449	0	5	25.0	934367	1122	recent@tech	HOT	eMudhra's CA keys cracked in milliseconds
+1599500	AskSN	2	1397	0	5	24.2	724606	13616	recent@AI|recent@econ|recent@AskSN	HOT,SELF_POST_OPP	Are Humans Still “the Ultimate Resource”? (HP, Alex Hammond)
+1599940	AskSN	2	1295	0	1	12.4	1242375	258	recent@AskSN|top@AskSN	HOT	Is birth control a net positive?
+1599400	Politics_And_Law	3	1149	0	3	26.2	724606	13616	recent@econ	HOT	I'd Like to Decide What's Good For You (The Atlantic Over/Under, Will Gottsegen)
+1599381	Politics_And_Law	3	1145	0	3	26.9	401865	8708	recent@Stacker_Stocks	HOT	House Committee Says Webull Messages Point to China Access to U.S. Customer Data
+1599488	Politics_And_Law	3	1089	0	0	24.3	401865	8708	recent@science|recent@Stacker_Stocks	HOT	U.S. Sets Date For Auction on Deep Sean Mining Leases Off American Samoa
+1599547	Politics_And_Law	3	1072	0	1	23.6	724606	13616	recent@econ|top@econ	HOT	The Value of 'Free' Services, and the Great Unbundling (Telegraph, Kaminska)
+1599699	Stacker_Stocks	2	1069	0	4	20.0	1532699	432	top@Stacker_Stocks	HOT	Elon's Three Missing Pieces: A Different Way to Bet on SpaceX and Tesla
+1599451	AI	1	978	0	1	24.8	1	27748	recent@devs|recent@tech|recent@AI		PHP2Shell — AI uncovers critical vulnerabilities in the backbone of the web
+1599262	Construction_and_Engineering	2	959	0	2	31.6	1022234	635	recent@Construction_and_Engineering		PoW 10/21/26
+1599538	news	2	946	0	3	23.7	401865	8708	recent@news|top@news		Chemical Tank Explodes in Ohio, Forcing Evacuations
+1599879	bitcoin	1	905	0	7	14.5	30782	26084	recent@bitcoin|top@bitcoin		Business As Usual After Liquid Hack: Back - Bloomberg
+1599476	Politics_And_Law	3	904	0	7	24.5	724606	13616	recent@econ	SELF_POST_OPP	How Inflation Hits Differently, and What it Costs To Be Middle Class (FT)
+1599372	AskSN	2	819	0	7	27.2	509957	4946	recent@AskSN	SELF_POST_OPP	2026-27 UCL Pool: Week 3 Match Day 2
+1599698	devs	1	810	0	1	20.1	163128	3981	recent@devs|top@devs		🚨 Node.js Vulnerability — October 21, 2026 Security Releases
+1599739	bitcoin	1	783	0	8	18.9	1570149	22	recent@bitcoin|top@bitcoin		Are there any FROST-capable wallets that I can run on old phones?
+1599290	AI	1	756	0	0	30.2	12309	3739	recent@devs|recent@tech|recent@AI		DeepSeek opensources Inference Software
+1599740	math	2	536	0	1	18.9	280679	23832	recent@math|top@math		Why Every Four-Digit Number Finds Its Way to Kaprekar’s Constant
+1599790	AI	1	532	0	1	17.1	74100	13360	recent@nostr|top@nostr|recent@devs		Speaking Feather into existence - Gigi
+1599770	bitcoinplusplus	1	510	0	1	17.8	280679	23832	recent@bitcoinplusplus|top@bitcoinplusplus		Can Bitcoin Payments Survive the AI Onslaught? — Calle, joschisan, Elias Rohrer,
+1599371	bitcoin	1	478	0	6	27.2	296825	5667	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoin_Mining		Bitcube - Home Bitcoin Miner with Touchscreen
+1599750	BooksAndArticles	2	477	0	0	18.5	375005	2394	recent@ideasfromtheedge|top@ideasfromtheedge|recent@BooksAndArticles		Discover a new color
+1599447	bitcoin	1	469	0	14	24.9	30782	26084	recent@bitcoin|recent@BooksAndArticles		Bitcoin Fiction for Sats — Andrew Westhead
+1599309	Stacker_Stocks	2	467	0	2	29.3	297791	7979	recent@Stacker_Stocks		Why would Musk merge SpaceX and Tesla?
+1599169	Politics_And_Law	3	413	0	0	35.9	74100	13360	recent@econ		California billionaire tax ballot measure may cost the state ~$40b
+1599379	math	2	360	0	1	27.0	280679	23832	recent@AI|recent@math		AI Proved the Quasi-Riemann Hypothesis. What Happens Now?
+1599608	news	2	352	0	1	22.1	297791	7979	recent@news|top@news		Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections
+1599411	BooksAndArticles	2	351	0	0	25.9	1593075	30	recent@BooksAndArticles		The Genesis Code, Ch. 10: In Those Words
+1599255	AskSN	2	349	0	1	32.2	104755	13450	recent@AskSN		How much of a spontaneous person are you?
+1599834	history	2	348	0	0	16.0	9274	28805	recent@econ|top@econ|recent@history		Xikipedia History: The Eurozone Crisis
+1599412	AI	1	292	0	0	25.9	402772	22727	recent@AI		AI will make it possible to design and build organisms from scratch
+1599506	meta	1	261	0	3	24.1	36151	1681	recent@meta		What are you working on this week?
+1599838	AI	1	260	0	0	15.7	1575305	47	recent@AI|top@AI|recent@ideasfromtheedge		Linus Torvalds ships his first AI-assisted kernel patch and clocks a 23x speedup
+1599616	charts_and_maps	2	255	0	0	21.9	272410	2017	recent@charts_and_maps|top@charts_and_maps		Pele · Mermaid diagrams as themeable SVG
+1599938	AI	1	250	0	0	12.4	297791	7979	recent@AI|top@AI		OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So
+1599542	news	2	237	0	0	23.6	642641	9643	recent@news|top@news|recent@history		Musk Ordered Starlink Slowdown That Blindsided Ukraine
+1599625	AskSN	2	220	0	4	21.6	1545780	242	recent@AskSN|top@AskSN		SkySigner on a USB Drive?
+1599598	Construction_and_Engineering	2	207	0	0	22.2	280679	23832	recent@Construction_and_Engineering|top@Construction_and_Engineering		The Race to Demolish Fukushima | The B1M
+1599756	Stacker_Stocks	2	171	0	0	18.4	1054143	1445	recent@Stacker_Stocks|top@Stacker_Stocks		Conocophillips stock hits all-time high at 147.15 USD
+1599714	charts_and_maps	2	168	0	0	19.3	280679	23832	recent@Stacker_Stocks|top@Stacker_Stocks|recent@charts_and_maps		Tokenized Stocks And Active Strategies Drove Real-World Asset Growth
+1599832	Photography	3	168	0	1	16.0	984933	2908	recent@history|top@history		Paris, France, in 1902
+1599795	aliens_and_UFOs	3	143	0	1	16.9	272410	2017	recent@science|top@science		Japan to bring back samples from a Mars moon: any signs of life?
+1599384	econ	2	142	0	0	26.8	280679	23832	recent@econ		Rien de rien (Absolutely nothing)
+1599306	Stacker_Stocks	2	133	0	9	29.4	9274	28805	recent@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1599687	AI	1	124	0	2	20.2	238412	374	recent@AI|top@AI		Getty Images Bankrupt
+1599341	bitcoin	1	124	0	0	28.0	238412	374	recent@BooksAndArticles		The Great Dilution
+1599453	tech	1	113	0	1	24.8	458256	5046	recent@econ		SpaceX and Tesla Explore Merger to Create a De Facto Elon Inc.
+1599920	AI	1	89	0	0	13.1	1532699	432	recent@AI|top@AI		Meta's Most Powerful Open AI Model Runs on a Mac. Well, Two Macs.
+1599184	bitcoin_beginners	1	72	0	0	35.5	1301409	78	recent@bitcoin_beginners		Not Yours Keys, Not Your Coins
+1600037	news	2	72	0	0	4.5	297791	7979	recent@news|top@news		PHP: What is it and why did it spark a global cyber security scramble?
+1599351	AI	1	68	0	0	27.8	296825	5667	recent@bitcoin_beginners|recent@AI|recent@econ		No Hedge on Earth
+1599265	AI	1	67	0	0	31.3	182100	853	recent@AI		AI influencers - 3 questions
+1599340	AI	1	57	0	0	28.1	272410	2017	recent@AI		Meta's Muse AI Agent Caught Leaking Users' Intimate Personal Information
+1600038	art	3	57	0	0	4.4	1312850	11	recent@news|top@news|recent@history		A piece of Hope With ₿itcoin  history deserves a special home.
+1599475	AI	1	56	0	0	24.5	402772	22727	recent@AI		OpenAI's AI models disabled their own safety monitoring — and one lied about it
+1599368	AskSN	2	49	0	0	27.3	984933	2908	recent@AskSN		Daily Discussion Thread ~AskSN
+1599617	AI	1	47	0	0	21.8	1575305	47	recent@AI|top@AI|recent@ideasfromtheedge		GPT-5.6 found a PHP flaw so bad OpenAI looped in the White House to patch it
+1599468	AI	1	47	0	0	24.6	297791	7979	recent@AI		Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck
+1600018	Stacker_Stocks	2	42	0	3	5.2	9274	28805	recent@Stacker_Stocks|top@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1600031	Stacker_Stocks	2	42	0	0	4.6	9274	28805	recent@Stacker_Stocks|top@Stacker_Stocks		🤖 Meta has billions riding on its Muse - Snacks
+1599429	devs	1	36	0	1	25.3	297791	7979	recent@devs		EU cybersecurity team says unpatched PHP sites may need to go offline
+1600158	AskSN	2	36	0	0	0.7	984933	2908	recent@AskSN|top@AskSN	FRESH	Daily Discussion Thread ~AskSN
+1599867	ideasfromtheedge	2	36	0	1	14.7	1574064	49	recent@ideasfromtheedge|top@ideasfromtheedge		If You Get Pissed Off at Me
+1599939	news	2	20	0	0	12.4	1449902	1466	recent@news|top@news		Migrant caravan on 'faith and hope' journey toward US border
+1599808	bitcoin_Mining	1	11	0	0	16.5	1532836	1442	recent@bitcoin_Mining|top@bitcoin_Mining		Blockparty #45 Rigly's
+1599708	bitcoin_Mining	1	11	0	0	19.5	280679	23832	recent@bitcoin_Mining|top@bitcoin_Mining		Controlflow Balancing Rules: Keep Your Mining Site Within Its Power Limit
+1599535	news	2	10	0	1	23.8	126503	838	recent@news|top@news		Critical vulnerabilities in the PHP. Dutch, Finnish government websites offline
