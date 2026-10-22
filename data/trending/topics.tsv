@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-22T09:11:31.593Z; n=40
-bitcoin	sn:bitcoin,sn:news	7.11	yes	
+# generated 2026-10-22T14:53:38.337Z; n=40
+cvss	sn:tech	6.24	yes	
+meta	hn,sn:news	5.58	yes	
+what	hn,sn:bitcoin	4.59	yes	
+home	hn,sn:Geyser_community	4.49	yes	
 pleb economist	sn:math	4.37	no	RISING
 the secretary problem	sn:math	4.37	no	RISING
+bitcoin activism	sn:bitcoin	4.04	yes	
+social movement	sn:bitcoin	4.04	yes	
 why do people fear progress	sn:AskSN	3.78	no	RISING
 psychology	sn:AskSN	3.78	no	RISING
 progress	sn:AskSN	3.78	no	RISING
 adam omary	sn:AskSN	3.78	no	RISING
-missing bit	sn:news	3.76	yes	
-movies	sn:art	3.52	no	RISING
-home	sn:Geyser_community	3.47	yes	
-bitcoin builders	sn:Geyser_community	3.47	yes	
-guadalajara	sn:Geyser_community	3.47	yes	
+bitcoin builders	sn:Geyser_community	3.49	yes	
+guadalajara	sn:Geyser_community	3.49	yes	
 here	sn:bitcoin	3.35	yes	
-java	sn:news	3.25	no	RISING
+bitcoin	sn:bitcoin	3.35	yes	
+java	sn:news	3.28	no	RISING
 critical	sn:tech	3.21	yes	
 flaw	sn:tech	3.21	yes	
-cvss	sn:tech	3.21	yes	
 could allow unauthenticated	sn:tech	3.21	yes	
-are humans still	sn:AskSN	3.14	yes	
-ultimate resource	sn:AskSN	3.14	yes	
-alex hammond	sn:AskSN	3.14	yes	
-playing	sn:gaming	3.09	no	RISING
-playoff points challenge	sn:Stacker_Sports	3.08	no	RISING
-current standings	sn:Stacker_Sports	3.08	no	RISING
-submissions	sn:Stacker_Sports	3.08	no	RISING
+are humans still	sn:AskSN	3.15	yes	
+ultimate resource	sn:AskSN	3.15	yes	
+alex hammond	sn:AskSN	3.15	yes	
 homemade	sn:Animal_World	3.08	no	RISING
-like	sn:Politics_And_Law	3.06	no	RISING
-decide what	sn:Politics_And_Law	3.06	no	RISING
-good for you	sn:Politics_And_Law	3.06	no	RISING
-the atlantic over	sn:Politics_And_Law	3.06	no	RISING
-under	sn:Politics_And_Law	3.06	no	RISING
-will gottsegen	sn:Politics_And_Law	3.06	no	RISING
-house committee says webull messages point	sn:Politics_And_Law	3.06	no	RISING
-china access	sn:Politics_And_Law	3.06	no	RISING
-customer data	sn:Politics_And_Law	3.06	no	RISING
-sets date for auction	sn:Politics_And_Law	3.04	no	RISING
-deep sean mining leases off american samoa	sn:Politics_And_Law	3.04	no	RISING
-the value	sn:Politics_And_Law	3.02	no	RISING
-free	sn:Politics_And_Law	3.02	no	RISING
-services	sn:Politics_And_Law	3.02	no	RISING
+daily discussion thread	sn:Music	3.06	no	RISING
+music saloon	sn:Music	3.06	no	RISING
+the value	sn:Politics_And_Law	3.03	no	RISING
+free	sn:Politics_And_Law	3.03	no	RISING
+services	sn:Politics_And_Law	3.03	no	RISING
+great unbundling	sn:Politics_And_Law	3.03	no	RISING
+telegraph	sn:Politics_And_Law	3.03	no	RISING
+kaminska	sn:Politics_And_Law	3.03	no	RISING
+unpatched	sn:tech	3.03	yes	
+linux	sn:tech	3.03	yes	
+lkml	sn:tech	3.03	yes	
+chemical tank explodes	sn:news	2.98	no	RISING
+ohio	sn:news	2.98	no	RISING
+forcing evacuations	sn:news	2.98	no	RISING
+business as usual after liquid hack	sn:bitcoin	2.96	yes	
+back	sn:bitcoin	2.96	yes	
