@@ -1,14 +1,16 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-23T09:08:20.261Z; n=40
-france	hn,sn:Travel,sn:Photography	8.75	no	RISING
+# generated 2026-10-23T14:41:14.423Z; n=40
+france	hn,sn:Politics_And_Law,sn:Photography	8.99	no	RISING
+germany	hn	4.38	no	RISING
 hashrate hearth	sn:bitcoin	4.29	yes	
 freedom-bulb	sn:bitcoin	4.29	yes	
-bitcoin activism	sn:bitcoin	4.06	yes	
-social movement	sn:bitcoin	4.06	yes	
-heatbit	sn:bitcoin	3.57	yes	
-bitwater	sn:bitcoin	3.57	yes	
-updated bitcoin core	sn:bitcoin	3.4	yes	
-antoine poinsot	sn:bitcoin	3.4	yes	
+latest strikes	sn:bitcoin	3.91	yes	
+october	sn:bitcoin	3.91	yes	
+show	hn	3.84	yes	
+heatbit	sn:bitcoin	3.59	yes	
+bitwater	sn:bitcoin	3.59	yes	
+updated bitcoin core	sn:bitcoin	3.42	yes	
+antoine poinsot	sn:bitcoin	3.42	yes	
 math puzzle	sn:math	3.39	no	RISING
 sequence	sn:math	3.39	no	RISING
 square pairs	sn:math	3.39	no	RISING
@@ -16,27 +18,25 @@ everything	sn:Stacker_Stocks	3.29	no	RISING
 elon musk trade	sn:Stacker_Stocks	3.29	no	RISING
 money stuff	sn:Stacker_Stocks	3.29	no	RISING
 matt levine	sn:Stacker_Stocks	3.29	no	RISING
+bitcoin optech newsletter	sn:bitcoin	3.26	yes	
 unbeatable	sn:BooksAndArticles	3.13	no	RISING
 the brutally honest case	sn:BooksAndArticles	3.13	no	RISING
 free markets	sn:BooksAndArticles	3.13	no	RISING
 bryan caplan	sn:BooksAndArticles	3.13	no	RISING
-sell	sn:AI	3.12	yes	
-mesh	sn:AI	3.12	yes	
-alby hub	sn:AI	3.12	yes	
 virginia state sen	sn:Politics_And_Law	3.08	no	RISING
 arrested	sn:Politics_And_Law	3.08	no	RISING
 accused of masterminding criminal drug enterprise	sn:Politics_And_Law	3.08	no	RISING
-unpatched	sn:tech	3.08	yes	
-cvss	sn:tech	3.08	yes	
-linux	sn:tech	3.08	yes	
-lkml	sn:tech	3.08	yes	
-bitcoin-smol	sn:bitcoin	3.06	yes	
+bitcoin-smol	sn:bitcoin	3.07	yes	
 gameboy color	sn:gaming	3.06	yes	
 nostr	sn:nostr	3.04	yes	
 ride	sn:nostr	3.04	yes	
 google	sn:AI	3.04	yes	
 finland	sn:AI	3.04	yes	
-biggest channel opened today	sn:lightning	3.04	no	RISING
-new node spotlight	sn:lightning	3.04	no	RISING
-pool	sn:AskSN	2.98	no	RISING
-week	sn:AskSN	2.98	no	RISING
+ayaan hirsi ali	sn:Politics_And_Law	3.04	no	RISING
+muslim	sn:Politics_And_Law	3.04	no	RISING
+daily discussion thread	sn:Music	2.96	no	RISING
+music saloon	sn:Music	2.96	no	RISING
+insider exclusive	sn:bitcoinplusplus	2.92	no	RISING
+michael	sn:bitcoinplusplus	2.92	no	RISING
+boltz	sn:bitcoinplusplus	2.92	no	RISING
+last	sn:bitcoinplusplus	2.92	no	RISING
