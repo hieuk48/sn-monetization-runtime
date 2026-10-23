@@ -58427,3 +58427,40 @@
 2026-10-23T19:33:43.470Z	1600827	AskSN	2	174	0	0	6.5	296825	5690	recent@devs|top@devs|recent@AI	SIGNAL	AI Found the Bug. Then It Leaked
 2026-10-23T19:33:43.470Z	1601052	bitcoin	1	136	0	0	1.0	296825	5690	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Bitcoin explained in 10 sentences.
 2026-10-23T19:33:43.470Z	1600746	meta	1	105	0	0	9.6	36151	1682	recent@meta|top@meta	SIGNAL	This Day on SN: October 23
+2026-10-23T22:04:06.828Z	1600810	bitcoin	1	8223	0	3	9.6	24585	381	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Latest Strikes #42 - October 12th-18th 2026
+2026-10-23T22:04:06.828Z	1600918	AskSN	2	2225	0	12	6.3	1242375	260	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL,SELF_POST_OPP	How many people use lightning on a daily basis?
+2026-10-23T22:04:06.828Z	1600776	bitcoin	1	2106	0	3	10.9	1014665	248	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin Optech Newsletter #428
+2026-10-23T22:04:06.828Z	1600886	math	2	1599	0	4	7.0	74100	13385	recent@bitcoin|top@bitcoin|recent@math	HOT,SIGNAL	On Entropy - Probability, Randomness, and the Safety of a Bitcoin Key
+2026-10-23T22:04:06.828Z	1600946	Stacker_Stocks	2	1203	0	0	5.9	724606	13642	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL	The Mega Bears Loom in Traditional Markets, Too (FT, Robert Armstrong)
+2026-10-23T22:04:06.828Z	1601041	trading	3	1139	0	1	3.9	724606	13642	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL	How to Invest Like the University Endowments (WSJ, Specer Jakab)
+2026-10-23T22:04:06.828Z	1600864	charts_and_maps	2	1049	0	0	7.9	280679	23851	recent@charts_and_maps|top@charts_and_maps	HOT,SIGNAL	(Updating LIVE) php2shell – Censys ARC Tracking Dashboard
+2026-10-23T22:04:06.828Z	1600841	bitcoin	1	1017	0	2	8.5	280679	23851	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Bitcoin Core Changes Security Policy Amid AI Risks
+2026-10-23T22:04:06.828Z	1600926	BooksAndArticles	2	1014	0	2	6.2	1264102	106	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL	Early Bitcoin Books: From the genesis block through 2012
+2026-10-23T22:04:06.828Z	1600931	bitcoin_Mining	1	839	0	1	6.1	51481	4322	recent@bitcoin_Mining|top@bitcoin_Mining|recent@Construction_and_Engineering	SIGNAL	Bitcoin data center fire seriously injures two people in Georgia
+2026-10-23T22:04:06.828Z	1601037	tech	1	767	0	0	4.0	777209	70	recent@tech|top@tech	SIGNAL	Kimi K3.1 Pro and K3.1 Pro Highspeed released
+2026-10-23T22:04:06.828Z	1600995	tech	1	744	0	0	5.0	777209	70	recent@tech|top@tech	SIGNAL	Calif demos iPhone exploits at Hexacon, including Signal 1-click and iMessage
+2026-10-23T22:04:06.828Z	1600806	bitcoin_beginners	1	711	0	3	9.7	30782	26100	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #121
+2026-10-23T22:04:06.828Z	1600853	bitcoinplusplus	1	681	0	0	8.3	280679	23851	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Zcash-Style Private Payments on Bitcoin L1 — Aleksei Moskvin, Markus Schofnegger
+2026-10-23T22:04:06.828Z	1601118	bitcoin	1	639	0	0	1.0	144357	4696	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	US banning Chinese AI DeepSeek from government  | SNL #247
+2026-10-23T22:04:06.828Z	1600934	bitcoin	1	584	0	0	6.1	593189	886	recent@bitcoin|top@bitcoin	SIGNAL	This I Believe, by Robert A. Heinlein
+2026-10-23T22:04:06.828Z	1600892	bitcoin	1	516	0	2	6.8	74100	13385	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	floppy39 - floppy makes a bootable floppy image that generates seeds
+2026-10-23T22:04:06.828Z	1600937	Politics_And_Law	3	440	0	2	6.0	12309	3742	recent@history|top@history	SIGNAL	Could Netanyahu really lose?
+2026-10-23T22:04:06.828Z	1600791	bitcoin	1	409	0	0	10.1	296825	5691	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	HRF’s Weekly Financial Freedom Report #143
+2026-10-23T22:04:06.828Z	1600985	AI	1	392	0	0	5.2	724606	13642	recent@AI|top@AI|recent@econ	SIGNAL	Anthropic's Gigantic Net Loss, and Other Cool Stories About Fake Finance
+2026-10-23T22:04:06.828Z	1600990	DIY	3	351	0	4	5.1	296825	5691	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Stackers, what would you do if electricity and/or the internet is shutdown
+2026-10-23T22:04:06.828Z	1600978	bitcoin	1	337	0	0	5.3	163128	3988	recent@bitcoin|top@bitcoin	SIGNAL	BISQ release v1.10.10 include latest Tor security release
+2026-10-23T22:04:06.828Z	1600880	Stacker_Stocks	2	322	0	0	7.3	280679	23851	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	The Best Relative Value Trade We Have Ever Seen
+2026-10-23T22:04:06.828Z	1601046	lightning	1	294	0	0	3.8	440729	337	top@lightning	SIGNAL	~Lightning Gossip newsletter - 026W43
+2026-10-23T22:04:06.828Z	1600908	bitcoin	1	258	0	1	6.5	296825	5691	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Ride the Wave: Integrate Bitcoin Payments with Wavelength on Mainnet 🌊
+2026-10-23T22:04:06.828Z	1600812	BooksAndArticles	2	251	0	0	9.6	1593075	31	top@BooksAndArticles	SIGNAL	The Genesis Code, Ch. 12: Word for Word
+2026-10-23T22:04:06.828Z	1601074	tech	1	226	0	0	2.9	296825	5691	recent@tech|top@tech|recent@AI	SIGNAL	Dessa - the Conversation Model trained only on speech
+2026-10-23T22:04:06.828Z	1601057	AskSN	2	202	0	1	3.3	296825	5691	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AskSN	SIGNAL	Why is Bitcoin not a pyramid scheme?
+2026-10-23T22:04:06.828Z	1600757	bitcoin	1	190	0	1	11.6	1594596	12	recent@bitdevs|top@bitdevs	SIGNAL	BlitzPerp's statechain withdrawal on custom signet
+2026-10-23T22:04:06.828Z	1600783	BooksAndArticles	2	180	0	0	10.3	9274	28842	recent@history|top@history|recent@BooksAndArticles	SIGNAL	Xikipedia History: A. A. Milne the father of Winnie The Pooh
+2026-10-23T22:04:06.828Z	1600827	AskSN	2	174	0	0	9.0	296825	5691	recent@devs|top@devs|recent@AI	SIGNAL	AI Found the Bug. Then It Leaked
+2026-10-23T22:04:06.828Z	1600750	Stacker_Stocks	2	163	0	6	11.8	9274	28842	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-10-23T22:04:06.828Z	1601052	bitcoin	1	146	0	0	3.5	296825	5691	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin explained in 10 sentences.
+2026-10-23T22:04:06.828Z	1601054	AI	1	137	0	2	3.5	328182	4092	recent@AI|top@AI|recent@econ	SIGNAL	How AI is transforming economic research and analysis
+2026-10-23T22:04:06.828Z	1600768	Stacker_Stocks	2	137	0	2	11.1	9274	28842	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	👀 Wall Street gets a peak inside Anthropic  - Snacks
+2026-10-23T22:04:06.828Z	1600973	news	2	106	0	2	5.3	238412	379	recent@news|top@news	SIGNAL	Jared Kushner’s Hacked Phone Revealed More Than $700M in Transfers
+2026-10-23T22:04:06.828Z	1600781	AskSN	2	101	0	0	10.5	1532836	1464	recent@AskSN|top@AskSN	SIGNAL	On August 9, 2010, a user lost access to 8,999 bitcoins.
