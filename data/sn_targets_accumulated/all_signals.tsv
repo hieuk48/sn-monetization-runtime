@@ -58404,3 +58404,26 @@
 2026-10-23T19:05:50.399Z	1600973	news	2	106	0	2	2.4	238412	379	recent@news|top@news	SIGNAL	Jared Kushner’s Hacked Phone Revealed More Than $700M in Transfers
 2026-10-23T19:05:50.399Z	1600746	meta	1	105	0	0	9.1	36151	1682	recent@meta|top@meta	SIGNAL	This Day on SN: October 23
 2026-10-23T19:05:50.399Z	1600781	AskSN	2	101	0	0	7.6	1532836	1456	recent@AskSN|top@AskSN	SIGNAL	On August 9, 2010, a user lost access to 8,999 bitcoins.
+2026-10-23T19:33:43.470Z	1600810	bitcoin	1	8123	0	3	7.1	24585	381	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Latest Strikes #42 - October 12th-18th 2026
+2026-10-23T19:33:43.470Z	1600918	AskSN	2	2225	0	11	3.8	1242375	260	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL,SELF_POST_OPP	How many people use lightning on a daily basis?
+2026-10-23T19:33:43.470Z	1600776	bitcoin	1	2106	0	3	8.4	1014665	248	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin Optech Newsletter #428
+2026-10-23T19:33:43.470Z	1600886	math	2	1599	0	4	4.5	74100	13382	recent@bitcoin|top@bitcoin	HOT,SIGNAL	On Entropy - Probability, Randomness, and the Safety of a Bitcoin Key
+2026-10-23T19:33:43.470Z	1600841	bitcoin	1	1017	0	2	6.0	280679	23851	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Bitcoin Core Changes Security Policy Amid AI Risks
+2026-10-23T19:33:43.470Z	1600931	bitcoin_Mining	1	839	0	1	3.6	51481	4322	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitcoin data center fire seriously injures two people in Georgia
+2026-10-23T19:33:43.470Z	1600995	tech	1	744	0	0	2.5	777209	70	recent@tech|top@tech	SIGNAL	Calif demos iPhone exploits at Hexacon, including Signal 1-click and iMessage
+2026-10-23T19:33:43.470Z	1600806	bitcoin_beginners	1	711	0	2	7.2	30782	26100	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #121
+2026-10-23T19:33:43.470Z	1600853	bitcoinplusplus	1	681	0	0	5.8	280679	23851	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Zcash-Style Private Payments on Bitcoin L1 — Aleksei Moskvin, Markus Schofnegger
+2026-10-23T19:33:43.470Z	1600934	bitcoin	1	584	0	0	3.6	593189	886	recent@bitcoin|top@bitcoin	SIGNAL	This I Believe, by Robert A. Heinlein
+2026-10-23T19:33:43.470Z	1601037	tech	1	536	0	0	1.5	777209	70	recent@tech|top@tech	FRESH,SIGNAL	Kimi K3.1 Pro and K3.1 Pro Highspeed released
+2026-10-23T19:33:43.470Z	1600892	bitcoin	1	516	0	2	4.3	74100	13382	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	floppy39 - floppy makes a bootable floppy image that generates seeds
+2026-10-23T19:33:43.470Z	1600791	bitcoin	1	409	0	0	7.6	296825	5690	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	HRF’s Weekly Financial Freedom Report #143
+2026-10-23T19:33:43.470Z	1600985	AI	1	392	0	0	2.7	724606	13642	recent@AI|top@AI	SIGNAL	Anthropic's Gigantic Net Loss, and Other Cool Stories About Fake Finance
+2026-10-23T19:33:43.470Z	1600978	bitcoin	1	337	0	0	2.8	163128	3988	recent@bitcoin|top@bitcoin	SIGNAL	BISQ release v1.10.10 include latest Tor security release
+2026-10-23T19:33:43.470Z	1601046	lightning	1	294	0	0	1.3	440729	337	top@lightning	FRESH,SIGNAL	~Lightning Gossip newsletter - 026W43
+2026-10-23T19:33:43.470Z	1600908	bitcoin	1	258	0	1	4.0	296825	5690	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Ride the Wave: Integrate Bitcoin Payments with Wavelength on Mainnet 🌊
+2026-10-23T19:33:43.470Z	1600990	DIY	3	211	0	4	2.6	296825	5690	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Stackers, what would you do if electricity and/or the internet is shutdown
+2026-10-23T19:33:43.470Z	1601057	AskSN	2	202	0	1	0.8	296825	5690	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Why is Bitcoin not a pyramid scheme?
+2026-10-23T19:33:43.470Z	1600757	bitcoin	1	190	0	1	9.1	1594596	12	recent@bitdevs|top@bitdevs	SIGNAL	BlitzPerp's statechain withdrawal on custom signet
+2026-10-23T19:33:43.470Z	1600827	AskSN	2	174	0	0	6.5	296825	5690	recent@devs|top@devs|recent@AI	SIGNAL	AI Found the Bug. Then It Leaked
+2026-10-23T19:33:43.470Z	1601052	bitcoin	1	136	0	0	1.0	296825	5690	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Bitcoin explained in 10 sentences.
+2026-10-23T19:33:43.470Z	1600746	meta	1	105	0	0	9.6	36151	1682	recent@meta|top@meta	SIGNAL	This Day on SN: October 23
