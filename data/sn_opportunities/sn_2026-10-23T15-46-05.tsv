@@ -1,0 +1,66 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1600810	bitcoin	1	8057	0	1	3.3	24585	381	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Latest Strikes #42 - October 12th-18th 2026
+1600776	bitcoin	1	1798	0	3	4.6	1014665	248	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin Optech Newsletter #428
+1600886	math	2	960	0	4	0.7	74100	13381	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	On Entropy - Probability, Randomness, and the Safety of a Bitcoin Key
+1600806	bitcoin_beginners	1	711	0	2	3.4	30782	26098	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #121
+1600853	bitcoinplusplus	1	515	0	0	2.0	280679	23851	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Zcash-Style Private Payments on Bitcoin L1 — Aleksei Moskvin, Markus Schofnegger
+1600791	bitcoin	1	409	0	0	3.8	296825	5678	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	HRF’s Weekly Financial Freedom Report #143
+1600757	bitcoin	1	190	0	1	5.3	1594596	12	recent@bitdevs|top@bitdevs	SIGNAL	BlitzPerp's statechain withdrawal on custom signet
+1600827	AskSN	2	174	0	0	2.7	296825	5678	recent@devs|top@devs|recent@AI	SIGNAL	AI Found the Bug. Then It Leaked
+1600892	bitcoin	1	121	0	0	0.5	74100	13381	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	floppy39 - floppy makes a bootable floppy image that generates seeds
+1600693	AI	1	109	0	1	9.8	1597874	20	recent@AI|top@AI	SIGNAL	anyone using a harness that simulates a persistent chat room?
+1600746	meta	1	105	0	0	5.8	36151	1682	recent@meta|top@meta	SIGNAL	This Day on SN: October 23
+1600205	bitcoin	1	19317	0	29	24.1	227606	2681	recent@bitcoin	HOT	Hashrate Hearth: How many home miners does it take to screw in a freedom-bulb?
+1600095	bitcoin	1	11619	0	12	27.8	714537	55	recent@bitcoin	HOT	Bitcoin Activism (Not a Social Movement)
+1600253	bitcoin	1	3883	0	10	23.5	74100	13381	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Heatbit announces Bitwater - bitcoin miner water heater element
+1600461	bitcoin	1	2610	0	2	19.9	74100	13381	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Updated Bitcoin Core security policy - Antoine Poinsot
+1600003	bitcoin	1	1921	0	26	30.8	13531	1749	recent@bitcoin|recent@bitcoin_beginners|recent@lightning	HOT	What is CoinOS's "renew" feature
+1600098	AI	1	1310	0	1	27.7	21800	497	recent@bitcoin|recent@lightning|recent@AI	HOT	Sell inference on Mesh LLM and get paid directly to Alby Hub via NWC
+1600105	tech	1	1203	0	2	27.6	777209	67	recent@tech	HOT	Unpatched CVSS 9.0 Linux kernel RCEs accidentally posted to public LKML
+1600166	bitcoin	1	1170	0	8	24.9	1570149	29	recent@bitcoin	HOT	bitcoin-smol
+1600199	gaming	3	1140	0	1	24.2	74100	13381	recent@bitcoin|recent@bitdevs	HOT	Off-wallet: opensource hardware wallet for Gameboy Color
+1600285	AI	1	1107	0	0	23.1	126503	840	recent@AI|top@AI	HOT	Google illegally fells 250,000 trees in Finland for datacentre
+1600351	lightning	1	1098	0	2	21.9	440729	335	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (3.9 BTC) + New Node Spotlight (03304ec87c62efe5a…)
+1600354	nostr	1	1088	0	4	21.9	1512975	18	recent@nostr|top@nostr	HOT	NOSTR-RIDE: P2P taxi service built on Nostr
+1600248	tech	1	1073	0	0	23.6	1032604	47	recent@tech|top@tech	HOT	~/pwn.watch_ · live security incidents
+1600484	bitcoinplusplus	1	839	0	0	19.4	263526	1022	recent@bitcoinplusplus|top@bitcoinplusplus|recent@lightning		bitcoin++ Insider Exclusive! Michael of Boltz LAST EVER interview
+1600254	Politics_And_Law	3	721	0	1	23.5	470384	78	recent@lightning|top@lightning		Someone Opened a CashApp In Her Name. She Faces Years in Prison
+1600000	bitcoin	1	712	0	2	31.9	12309	3740	recent@bitcoin		EU Nears Market Securitization Reform in Bid to Unleash Billions
+1600343	bitcoin	1	589	0	3	22.1	272410	2033	recent@bitcoin|top@bitcoin		An open letter to the Bitcoin ecosystem | Jameson Lopp
+1600176	tech	1	536	0	2	24.7	777209	67	recent@tech		eMudhra to exit global SSL/TLS certificate business
+1600161	bitcoin	1	519	0	0	25.2	74100	13381	recent@bitcoin		Class action lawsuit filed against Coinkite in Ontario
+1600130	AI	1	496	0	1	26.2	1597874	20	recent@AI		why do harnesses have shell access?
+1600625	Travel	3	467	0	1	14.7	402772	22731	recent@tech|top@tech		HelloHotspot: eSIM data that never expires
+1600458	lightning	1	444	0	0	20.0	263526	1022	recent@lightning|top@lightning		Bitcoin Lightning Network Statistics 2026: Capacity, Nodes and Payment Growth
+1600662	tech	1	415	0	1	12.1	238412	376	recent@tech|top@tech		Quest Diagnostics hack
+1600320	AI	1	386	0	0	22.5	1575305	49	recent@AI|top@AI		Tesla starts building Optimus humanoids on a converted Fremont car line
+1600632	bitcoin	1	373	0	2	14.4	402772	22731	recent@bitcoin|top@bitcoin		BitNotes | Multi-Mint Physical Ecash Wallet
+1600063	lightning	1	356	0	1	28.5	272410	2033	recent@lightning		lnd v0.20.6-beta.rc1: The Latest Lightning Network Release Candidate is Live
+1600026	AI	1	325	0	0	29.5	12309	3740	recent@tech|recent@AI		Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM
+1600002	bitcoin	1	319	0	0	31.1	12309	3740	recent@bitcoin		turning mercury into real, stable gold, beating CERN’s record by a factor of 10
+1600539	bitcoinplusplus	1	315	0	1	17.7	280679	23851	recent@bitcoinplusplus|top@bitcoinplusplus		The Fiat Payment Stack Returns (Part 2), The Sequel — Allen Farrington | Berlin
+1600568	AI	1	293	0	0	16.5	1575305	49	recent@AI|top@AI		Bonn lab turns 80-year-old blood cells into brain stem cells that test under 20
+1600108	lol	2	210	0	0	27.4	280679	23851	recent@AI		Good thing it's somebody else's money
+1600464	lightning	1	204	0	0	19.8	263526	1022	recent@lightning|top@lightning		Lightning Labs's Olaoluwa Osuntokun Urges Node Updates After Certificate Breach
+1600592	devs	1	180	0	0	15.4	272410	2033	recent@devs|top@devs		spotatui | a TUI for native Spotify, YouTube, local files and radio
+1600106	bitcoin_beginners	1	172	0	1	27.5	263526	1022	recent@bitcoin_beginners		Setting up Lightning nodes in 2026
+1600434	AskSN	2	170	0	0	20.3	1532836	1456	recent@bitcoin|top@bitcoin		1BitcoinEaterAddressDontSendf59kuE
+1600056	bitcoin	1	138	0	1	28.7	296825	5678	recent@bitcoin_beginners|recent@bitcoinplusplus		25+ Bitcoin circular economies, investigated. Are they overhyped OR a big deal?
+1600021	meta	1	132	0	0	29.8	36151	1682	recent@meta		This Day on SN: October 22
+1600611	devs	1	118	0	1	14.9	297791	7983	recent@devs|top@devs		Linux 7.4 Workqueue Changes Bring A "10 To 100 Times Faster" Optimization
+1600716	bitcoin	1	94	0	2	8.3	296825	5678	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		An open letter to the Bitcoin ecosystem | Jameson Lopp
+1600535	AI	1	94	0	0	17.8	272410	2033	recent@AI|top@AI		AI Is Changing Everything About Hacking. No One Knows What Happens Next
+1600399	AI	1	82	0	0	20.8	1600327	4	recent@AI|top@AI		MCP server for agents: web page screenshots and PDFs, paid per call in sats
+1600737	bitcoin	1	67	0	0	6.0	272410	2033	recent@bitcoinplusplus|top@bitcoinplusplus		Building a Bitcoin POS With Merchants, Not For Them
+1600728	bitcoin	1	57	0	0	7.2	296825	5678	recent@bitcoin_beginners|top@bitcoin_beginners		[Bounty] Explain Bitcoin in 30 sec, not say: Bitcoin/BTC/money/cash/coin/sats
+1600856	bitcoin	1	36	0	0	1.8	296825	5678	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Cashu & ecash: A Hands-On Bitcoin Payments Workshop
+1600836	bitcoin_beginners	1	36	0	0	2.5	296825	5678	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Pecan v0.4.0 is out!
+1600712	bitcoin	1	36	0	0	8.4	1554639	35	recent@bitcoin_beginners|top@bitcoin_beginners		MostroEuropa updated to v0.20.1 — P2P reputation shouldn't be locked to one node
+1600819	bitcoin_beginners	1	36	0	0	3.0	1444593	143	recent@bitcoin_beginners|top@bitcoin_beginners		Sacarle una foto a la seed
+1600818	bitcoin_beginners	1	36	0	0	3.1	1556438	3	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin Thursday — October 22, 2026
+1600531	AI	1	32	0	2	17.8	1054143	1449	recent@AI|top@AI		Why AI’s Deepest Mind Believes the World Is About to Change Radically
+1600629	AI	1	20	0	0	14.5	402772	22731	recent@AI|top@AI		Microsoft develops AI tool that can diagnose 'sequentially' like a doctor
+1600650	bitcoin	1	0	0	0	13.5	47274	155	recent@bitcoin|top@bitcoin		'21 Million' (13-song Bitcoin-themed album on Spotify)
+1600908	AI	1	0	0	0	0.2	296825	5678	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH	Ride the Wave: Integrate Bitcoin Payments with Wavelength on Mainnet 🌊
+1600710	tech	1	0	0	1	8.4	296825	5678	recent@devs|top@devs		HOW A ONE PHP LEAK AFFECTED 5 COUNTRIES AND THE EU IN A SINGLE DAY
+1600848	AI	1	0	0	0	2.1	280679	23851	recent@AI|top@AI		Bank stocks crashed by $22 billion after AI access scare
