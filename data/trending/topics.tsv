@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-23T00:24:47.302Z; n=40
-what	hn,sn:bitcoin	5.52	yes	
-hashrate hearth	sn:bitcoin	4.28	yes	
-freedom-bulb	sn:bitcoin	4.28	yes	
+# generated 2026-10-23T09:08:20.261Z; n=40
+france	hn,sn:Travel,sn:Photography	8.75	no	RISING
+hashrate hearth	sn:bitcoin	4.29	yes	
+freedom-bulb	sn:bitcoin	4.29	yes	
 bitcoin activism	sn:bitcoin	4.06	yes	
 social movement	sn:bitcoin	4.06	yes	
-heatbit	sn:bitcoin	3.56	yes	
-bitwater	sn:bitcoin	3.56	yes	
+heatbit	sn:bitcoin	3.57	yes	
+bitwater	sn:bitcoin	3.57	yes	
+updated bitcoin core	sn:bitcoin	3.4	yes	
+antoine poinsot	sn:bitcoin	3.4	yes	
 math puzzle	sn:math	3.39	no	RISING
 sequence	sn:math	3.39	no	RISING
 square pairs	sn:math	3.39	no	RISING
-updated bitcoin core	sn:bitcoin	3.38	yes	
-antoine poinsot	sn:bitcoin	3.38	yes	
-show	hn	3.37	yes	
-java	sn:news	3.28	no	RISING
-everything	sn:Stacker_Stocks	3.27	no	RISING
-elon musk trade	sn:Stacker_Stocks	3.27	no	RISING
-money stuff	sn:Stacker_Stocks	3.27	no	RISING
-matt levine	sn:Stacker_Stocks	3.27	no	RISING
-sell	sn:AI	3.08	yes	
-mesh	sn:AI	3.08	yes	
-alby hub	sn:AI	3.08	yes	
+everything	sn:Stacker_Stocks	3.29	no	RISING
+elon musk trade	sn:Stacker_Stocks	3.29	no	RISING
+money stuff	sn:Stacker_Stocks	3.29	no	RISING
+matt levine	sn:Stacker_Stocks	3.29	no	RISING
+unbeatable	sn:BooksAndArticles	3.13	no	RISING
+the brutally honest case	sn:BooksAndArticles	3.13	no	RISING
+free markets	sn:BooksAndArticles	3.13	no	RISING
+bryan caplan	sn:BooksAndArticles	3.13	no	RISING
+sell	sn:AI	3.12	yes	
+mesh	sn:AI	3.12	yes	
+alby hub	sn:AI	3.12	yes	
 virginia state sen	sn:Politics_And_Law	3.08	no	RISING
 arrested	sn:Politics_And_Law	3.08	no	RISING
 accused of masterminding criminal drug enterprise	sn:Politics_And_Law	3.08	no	RISING
-daily discussion thread	sn:Music	3.07	no	RISING
-music saloon	sn:Music	3.07	no	RISING
+unpatched	sn:tech	3.08	yes	
+cvss	sn:tech	3.08	yes	
+linux	sn:tech	3.08	yes	
+lkml	sn:tech	3.08	yes	
 bitcoin-smol	sn:bitcoin	3.06	yes	
-unbeatable	sn:BooksAndArticles	3.05	no	RISING
-the brutally honest case	sn:BooksAndArticles	3.05	no	RISING
-free markets	sn:BooksAndArticles	3.05	no	RISING
-bryan caplan	sn:BooksAndArticles	3.05	no	RISING
+gameboy color	sn:gaming	3.06	yes	
 nostr	sn:nostr	3.04	yes	
 ride	sn:nostr	3.04	yes	
-unpatched	sn:tech	3.04	yes	
-cvss	sn:tech	3.04	yes	
-linux	sn:tech	3.04	yes	
-lkml	sn:tech	3.04	yes	
+google	sn:AI	3.04	yes	
+finland	sn:AI	3.04	yes	
 biggest channel opened today	sn:lightning	3.04	no	RISING
 new node spotlight	sn:lightning	3.04	no	RISING
-gameboy color	sn:gaming	3.01	yes	
+pool	sn:AskSN	2.98	no	RISING
+week	sn:AskSN	2.98	no	RISING
