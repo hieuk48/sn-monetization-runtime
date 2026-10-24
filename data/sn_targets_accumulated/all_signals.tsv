@@ -58677,3 +58677,18 @@
 2026-10-24T20:41:15.143Z	1601357	Stacker_Stocks	2	129	0	0	9.2	9274	28872	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
 2026-10-24T20:41:15.143Z	1601396	news	2	110	0	0	7.7	272410	2046	recent@news|top@news	SIGNAL	GMO breach: 26,739 servers exposed, MetaTrader logins at risk in Japan
 2026-10-24T20:41:15.143Z	1601520	econ	2	102	0	0	4.2	1532699	437	recent@econ|top@econ	SIGNAL	Oil just did something we haven't seen in 19 years.
+2026-10-24T21:55:25.346Z	1601572	bitcoin	1	11817	0	6	3.8	1011295	262	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Plenty of success with square bitcoin payments.
+2026-10-24T21:55:25.346Z	1601485	bitcoin_Mining	1	1073	0	0	6.6	30782	26104	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	Bitaxe Naja Duo Opinions?
+2026-10-24T21:55:25.346Z	1601397	bitcoin	1	1042	0	5	8.8	77467	302	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	I built a bitcoin cashback app for the US. Looking for 20 Lightning users
+2026-10-24T21:55:25.346Z	1601507	bitcoin	1	1020	0	2	5.8	1601507	3	recent@bitcoin|top@bitcoin	HOT,SIGNAL	I built Zapboard: one message board, paid in sats. Outbid me by 10% to take it.
+2026-10-24T21:55:25.346Z	1601411	tech	1	926	0	2	8.4	13531	1750	recent@privacy|top@privacy|recent@tech	SIGNAL	People are fixing their TV OSes with Claude
+2026-10-24T21:55:25.346Z	1601338	tech	1	571	0	0	10.9	777209	74	recent@tech|top@tech	SIGNAL	Node2Shell Brotli RCE (CVE-2026-111497) now hits Python and other HTTP libs
+2026-10-24T21:55:25.346Z	1601442	tech	1	488	0	1	7.8	163128	3996	recent@tech|top@tech	SIGNAL	69 Days Until Lockdown! Keep Android Open
+2026-10-24T21:55:25.346Z	1601368	bitcoin	1	385	0	7	10.1	739506	139	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: $60K or $100K? Which Comes First?
+2026-10-24T21:55:25.346Z	1601336	bitcoin	1	363	0	1	11.0	296825	5699	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	New release: Electrum 4.8.3. Fixes a critical security issue. All users upgrade!
+2026-10-24T21:55:25.346Z	1601593	meta	1	360	0	0	3.2	1	27762	recent@meta|top@meta	SIGNAL	SN Saturday Newsletter 10/24/26
+2026-10-24T21:55:25.346Z	1601457	AGORA	3	314	0	0	7.4	163128	3996	recent@lightning|top@lightning	SIGNAL	Several projects to make merchant adoption easier and cheaper
+2026-10-24T21:55:25.346Z	1601621	bitcoin	1	224	0	2	2.3	296825	5699	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	We owe you an apology | Keystone Hardware Wallet
+2026-10-24T21:55:25.346Z	1601648	gaming	3	196	0	3	0.9	1601648	2	recent@lightning|top@lightning	FRESH,SIGNAL	I made a game where you play central banker. Today's winner gets 10k sats ⚡
+2026-10-24T21:55:25.346Z	1601480	bitcoinplusplus	1	176	0	1	6.8	163128	3996	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Bark: Self-custodial bitcoin payments without head-aches
+2026-10-24T21:55:25.346Z	1601486	bitcoinplusplus	1	138	0	1	6.6	163128	3996	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Federated Cashu eCash
