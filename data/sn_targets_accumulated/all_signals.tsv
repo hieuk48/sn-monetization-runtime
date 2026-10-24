@@ -58598,3 +58598,15 @@
 2026-10-24T14:26:47.138Z	1601390	BooksAndArticles	2	141	0	0	1.6	1593075	32	recent@BooksAndArticles|top@BooksAndArticles	FRESH,SIGNAL	The Genesis Code, Ch. 13: The Off Switch
 2026-10-24T14:26:47.138Z	1601308	BooksAndArticles	2	132	0	0	6.7	104755	13462	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	“We use Science”
 2026-10-24T14:26:47.138Z	1601357	Stacker_Stocks	2	129	0	0	2.9	9274	28865	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-10-24T17:28:08.371Z	1601507	bitcoin	1	1020	0	1	1.3	1601507	2	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	I built Zapboard: one message board, paid in sats. Outbid me by 10% to take it.
+2026-10-24T17:28:08.371Z	1601411	tech	1	926	0	2	3.9	13531	1750	recent@privacy|top@privacy|recent@tech	SIGNAL	People are fixing their TV OSes with Claude
+2026-10-24T17:28:08.371Z	1601485	bitcoin_Mining	1	872	0	0	2.2	30782	26104	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitaxe Naja Duo Opinions?
+2026-10-24T17:28:08.371Z	1601338	tech	1	571	0	0	6.4	777209	73	recent@tech|top@tech	SIGNAL	Node2Shell Brotli RCE (CVE-2026-111497) now hits Python and other HTTP libs
+2026-10-24T17:28:08.371Z	1601397	bitcoin	1	531	0	3	4.4	77467	298	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	I built a bitcoin cashback app for the US. Looking for 20 Lightning users
+2026-10-24T17:28:08.371Z	1601306	tech	1	494	0	2	10.0	296825	5696	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	CVE Tracker — CVEs per month since 1999
+2026-10-24T17:28:08.371Z	1601442	tech	1	467	0	1	3.3	163128	3996	recent@tech|top@tech	SIGNAL	69 Days Until Lockdown! Keep Android Open
+2026-10-24T17:28:08.371Z	1601368	bitcoin	1	385	0	6	5.6	739506	139	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: $60K or $100K? Which Comes First?
+2026-10-24T17:28:08.371Z	1601336	bitcoin	1	363	0	1	6.5	296825	5696	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	New release: Electrum 4.8.3. Fixes a critical security issue. All users upgrade!
+2026-10-24T17:28:08.371Z	1601457	AGORA	3	309	0	0	2.9	163128	3996	recent@lightning|top@lightning	SIGNAL	Several projects to make merchant adoption easier and cheaper
+2026-10-24T17:28:08.371Z	1601480	bitcoinplusplus	1	176	0	0	2.3	163128	3996	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Bark: Self-custodial bitcoin payments without head-aches
+2026-10-24T17:28:08.371Z	1601486	bitcoinplusplus	1	138	0	0	2.2	163128	3996	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Federated Cashu eCash
