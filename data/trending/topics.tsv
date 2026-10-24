@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-24T00:17:54.480Z; n=40
-bitcoin	sn:bitcoin,sn:bitcoin_Mining,sn:bitcoinplusplus	8.88	yes	
-france	sn:Politics_And_Law,sn:Photography	5.95	no	RISING
-kimi	hn,sn:tech	5.77	yes	
-pro highspeed	hn,sn:tech	5.77	yes	
-show	hn	4.84	yes	
+# generated 2026-10-24T08:41:22.399Z; n=40
+bitcoin	sn:AskSN,sn:bitcoin,sn:bitcoin_Mining	9.34	yes	
+kimi	hn,sn:tech	5.89	yes	
+pro highspeed	hn,sn:tech	5.89	yes	
 latest strikes	sn:bitcoin	3.92	yes	
 october	sn:bitcoin	3.92	yes	
-bitcoin optech newsletter	sn:bitcoin	3.34	yes	
-on entropy	sn:math	3.2	yes	
-probability	sn:math	3.2	yes	
-randomness	sn:math	3.2	yes	
-safety	sn:math	3.2	yes	
-bitcoin key	sn:math	3.2	yes	
-gretzky	sn:Stacker_Sports	3.14	no	RISING
-oiler	sn:Stacker_Sports	3.14	no	RISING
-the mega bears loom	sn:Stacker_Stocks	3.12	no	RISING
-traditional markets	sn:Stacker_Stocks	3.12	no	RISING
-robert armstrong	sn:Stacker_Stocks	3.12	no	RISING
-tried	sn:bitcoin	3.12	yes	
-square	sn:bitcoin	3.12	yes	
-ayaan hirsi ali	sn:Politics_And_Law	3.1	no	RISING
-muslim	sn:Politics_And_Law	3.1	no	RISING
-local wikipedia	hn	3.08	no	RISING
-wikipedia	hn	3.08	no	RISING
-invest like	sn:trading	3.06	no	RISING
-university endowments	sn:trading	3.06	no	RISING
-specer jakab	sn:trading	3.06	no	RISING
-updating	sn:charts_and_maps	3.02	no	RISING
-live	sn:charts_and_maps	3.02	yes	
-censys	sn:charts_and_maps	3.02	no	RISING
-tracking dashboard	sn:charts_and_maps	3.02	no	RISING
+bitcoin optech newsletter	sn:bitcoin	3.35	yes	
+on entropy	sn:math	3.21	yes	
+probability	sn:math	3.21	yes	
+randomness	sn:math	3.21	yes	
+safety	sn:math	3.21	yes	
+bitcoin key	sn:math	3.21	yes	
+tried	sn:bitcoin	3.2	yes	
+square	sn:bitcoin	3.2	yes	
+ayaan hirsi ali	sn:Politics_And_Law	3.18	no	RISING
+france	sn:Politics_And_Law	3.18	no	RISING
+muslim	sn:Politics_And_Law	3.18	no	RISING
+gretzky	sn:Stacker_Sports	3.16	no	RISING
+oiler	sn:Stacker_Sports	3.16	no	RISING
+local wikipedia	hn	3.14	no	RISING
+wikipedia	hn	3.14	no	RISING
+the mega bears loom	sn:Stacker_Stocks	3.13	no	RISING
+traditional markets	sn:Stacker_Stocks	3.13	no	RISING
+robert armstrong	sn:Stacker_Stocks	3.13	no	RISING
+invest like	sn:trading	3.07	no	RISING
+university endowments	sn:trading	3.07	no	RISING
+specer jakab	sn:trading	3.07	no	RISING
+msty	sn:Stacker_Stocks	3.07	no	RISING
+payout	sn:Stacker_Stocks	3.07	no	RISING
+the points guy pays out	sn:Stacker_Stocks	3.07	no	RISING
+updating	sn:charts_and_maps	3.03	no	RISING
+live	sn:charts_and_maps	3.03	yes	
+censys	sn:charts_and_maps	3.03	no	RISING
+tracking dashboard	sn:charts_and_maps	3.03	no	RISING
+chinese	sn:bitcoin	3.03	yes	
 early bitcoin books	sn:BooksAndArticles	3.01	no	RISING
 bitcoin core changes security policy amid	sn:bitcoin	3.01	yes	
 risks	sn:bitcoin	3.01	yes	
-knicks reportedly duped employees with championship ring phishing email test	sn:Stacker_Sports	2.98	no	RISING
-chinese	sn:bitcoin	2.98	yes	
-daily discussion thread	sn:Music	2.96	no	RISING
-music saloon	sn:Music	2.96	no	RISING
-sunday leaders bounty	sn:Stacker_Sports	2.94	no	RISING
-weekly random sports pick	sn:Stacker_Sports	2.94	no	RISING
+world series	sn:Stacker_Sports	3	no	RISING
+game	sn:Stacker_Sports	3	no	RISING
+discussion thread	sn:Stacker_Sports	3	no	RISING
