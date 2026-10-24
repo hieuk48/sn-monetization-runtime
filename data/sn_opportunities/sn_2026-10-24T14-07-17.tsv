@@ -1,0 +1,64 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1601283	bitcoin	1	2399	0	1	10.0	5621	411	recent@bitcoin|top@bitcoin	HOT,SIGNAL	LABitconf - who is coming?
+1601338	tech	1	571	0	0	3.1	777209	72	recent@tech|top@tech	SIGNAL	Node2Shell Brotli RCE (CVE-2026-111497) now hits Python and other HTTP libs
+1601411	tech	1	555	0	0	0.6	13531	1750	recent@privacy|top@privacy|recent@tech	FRESH,SIGNAL	People are fixing their TV OSes with Claude
+1601306	tech	1	394	0	1	6.6	296825	5696	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	CVE Tracker — CVEs per month since 1999
+1601397	bitcoin	1	393	0	1	1.0	77467	297	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	I built a bitcoin cashback app for the US. Looking for 20 Lightning users
+1601336	bitcoin	1	246	0	0	3.2	296825	5696	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	New release: Electrum 4.8.3. Fixes a critical security issue. All users upgrade!
+1601368	bitcoin	1	185	0	5	2.3	739506	139	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: $60K or $100K? Which Comes First?
+1600810	bitcoin	1	8255	0	3	25.7	24585	381	recent@bitcoin|recent@lightning	HOT	Latest Strikes #42 - October 12th-18th 2026
+1600918	AskSN	2	2236	0	17	22.3	1242375	260	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SELF_POST_OPP	How many people use lightning on a daily basis?
+1600776	bitcoin	1	2217	0	3	27.0	1014665	248	recent@bitcoin|recent@lightning	HOT	Bitcoin Optech Newsletter #428
+1601203	AskSN	2	1877	0	12	13.1	798714	1435	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SELF_POST_OPP	You don't have to mine Bitcoin
+1600886	math	2	1610	0	4	23.1	74100	13388	recent@bitcoin|top@bitcoin	HOT	On Entropy - Probability, Randomness, and the Safety of a Bitcoin Key
+1601141	bitcoin	1	1576	0	11	16.1	68842	652	recent@bitcoin|top@bitcoin	HOT	Tried and failed to pay with Bitcoin on Square terminal
+1601118	bitcoin	1	1060	0	1	17.1	144357	4697	recent@bitcoin|top@bitcoin	HOT	US banning Chinese AI DeepSeek from government  | SNL #247
+1600841	bitcoin	1	1028	0	3	24.6	280679	23851	recent@bitcoin|recent@bitdevs|recent@AI	HOT	Bitcoin Core Changes Security Policy Amid AI Risks
+1601037	tech	1	878	0	1	20.1	777209	72	recent@tech|top@tech		Kimi K3.1 Pro and K3.1 Pro Highspeed released
+1600931	bitcoin_Mining	1	850	0	1	22.2	51481	4322	recent@bitcoin_Mining|top@bitcoin_Mining		Bitcoin data center fire seriously injures two people in Georgia
+1600995	tech	1	744	0	0	21.1	777209	72	recent@tech|top@tech		Calif demos iPhone exploits at Hexacon, including Signal 1-click and iMessage
+1600806	bitcoin_beginners	1	711	0	3	25.8	30782	26102	recent@bitcoin_beginners		Bitcoin Beginners Newsletter #121
+1600853	bitcoinplusplus	1	702	0	0	24.3	280679	23851	recent@bitcoinplusplus		Zcash-Style Private Payments on Bitcoin L1 — Aleksei Moskvin, Markus Schofnegger
+1600892	bitcoin	1	598	0	3	22.9	74100	13388	recent@bitcoin|top@bitcoin|recent@bitdevs		floppy39 - floppy makes a bootable floppy image that generates seeds
+1600985	AI	1	585	0	2	21.2	724606	13654	recent@AI|top@AI		Anthropic's Gigantic Net Loss, and Other Cool Stories About Fake Finance
+1600934	bitcoin	1	584	0	0	22.1	593189	886	recent@bitcoin|top@bitcoin		This I Believe, by Robert A. Heinlein
+1600662	tech	1	415	0	1	34.5	238412	381	recent@tech		Quest Diagnostics hack
+1600791	bitcoin	1	409	0	0	26.1	296825	5696	recent@bitcoin|recent@bitcoin_beginners		HRF’s Weekly Financial Freedom Report #143
+1601054	AI	1	398	0	2	19.5	328182	4092	recent@AI|top@AI		How AI is transforming economic research and analysis
+1600990	DIY	3	372	0	5	21.2	296825	5696	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SELF_POST_OPP	Stackers, what would you do if electricity and/or the internet is shutdown
+1600978	bitcoin	1	348	0	0	21.3	163128	3988	recent@bitcoin|top@bitcoin		BISQ release v1.10.10 include latest Tor security release
+1601074	tech	1	308	0	1	19.0	296825	5696	recent@tech|top@tech|recent@AI		Dessa - the Conversation Model trained only on speech
+1601057	AskSN	2	302	0	1	19.4	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners		Why is Bitcoin not a pyramid scheme?
+1601046	lightning	1	294	0	0	19.8	440729	337	top@lightning		~Lightning Gossip newsletter - 026W43
+1600908	bitcoin	1	269	0	1	22.5	296825	5696	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Ride the Wave: Integrate Bitcoin Payments with Wavelength on Mainnet 🌊
+1600827	AskSN	2	206	0	0	25.0	296825	5696	recent@devs|recent@AI		AI Found the Bug. Then It Leaked
+1600757	bitcoin	1	190	0	1	27.6	1594596	12	recent@bitdevs		BlitzPerp's statechain withdrawal on custom signet
+1601052	bitcoin	1	146	0	0	19.6	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin explained in 10 sentences.
+1600693	AI	1	141	0	1	32.2	1597874	20	recent@AI		anyone using a harness that simulates a persistent chat room?
+1601157	AI	1	135	0	2	15.5	1532699	436	recent@AI|top@AI		One Guy Used AI Music and Bots to Steal $8 Million in Streaming Royalties
+1600746	meta	1	116	0	0	28.1	36151	1683	recent@meta		This Day on SN: October 23
+1601040	AI	1	103	0	2	20.0	296825	5696	recent@AI|top@AI		Claude Code found over 120 private videos of a married couple on adult sites
+1600716	bitcoin	1	94	0	2	30.6	296825	5696	recent@bitcoin_beginners|recent@bitdevs		An open letter to the Bitcoin ecosystem | Jameson Lopp
+1601006	tech	1	68	0	0	20.8	296825	5696	recent@AI|top@AI		PHP warns of ANOTHER UNPATCHED security flaw
+1601007	AI	1	68	0	1	20.8	1575305	51	recent@AI|top@AI		Luckey and Colossal's Lamm launch Warhound to clone and gene-edit military dogs
+1600737	bitcoin	1	67	0	0	28.4	272410	2042	recent@bitcoinplusplus		Building a Bitcoin POS With Merchants, Not For Them
+1600728	bitcoin	1	57	0	0	29.6	296825	5696	recent@bitcoin_beginners		[Bounty] Explain Bitcoin in 30 sec, not say: Bitcoin/BTC/money/cash/coin/sats
+1600950	bitcoin	1	56	0	0	21.9	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Stand a chance to win up to $500 in Liquid Bitcoin via 'Blockstream'.
+1600919	bitcoin	1	47	0	0	22.3	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		If you are into Bitcoin, you should be running a small lottery miner.
+1601329	AI	1	47	0	0	3.5	238412	381	recent@AI|top@AI		THIS is How AI Will Determine If You’re Rich or Poor in 5 Years
+1600992	lol	2	46	0	2	21.1	328182	4092	recent@AI|top@AI		AI models think humans are a bunch of amoral sheep
+1601333	bitcoin_beginners	1	36	0	0	3.4	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners		it's backed by the most powerful computer network the world has ever seen.
+1601093	bitcoin	1	36	0	0	18.2	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners		Thank you all for helping to build, test, and promote Bitchat. | Calle
+1601025	Geyser_community	3	36	0	0	20.3	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners		21k sats sent from one air-gapped wallet to another
+1600856	bitcoin	1	36	0	0	24.2	296825	5696	recent@bitcoin_beginners		Cashu & ecash: A Hands-On Bitcoin Payments Workshop
+1600836	bitcoin_beginners	1	36	0	0	24.8	296825	5696	recent@bitcoin_beginners|recent@bitdevs		Pecan v0.4.0 is out!
+1600712	bitcoin	1	36	0	0	30.8	1554639	35	recent@bitcoin_beginners		MostroEuropa updated to v0.20.1 — P2P reputation shouldn't be locked to one node
+1600819	bitcoin_beginners	1	36	0	0	25.4	1444593	144	recent@bitcoin_beginners		Sacarle una foto a la seed
+1600818	bitcoin_beginners	1	36	0	0	25.4	1556438	3	recent@bitcoin_beginners		Bitcoin Thursday — October 22, 2026
+1601180	AI	1	32	0	0	14.8	1575305	51	recent@AI|top@AI		GPT-5.6 Sol and Gemini 4 Argon find PHP2Shell, a flaw in millions of sites
+1601193	bitcoin_beginners	1	11	0	0	13.7	1054143	1451	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Satoshi Nakamoto's estimated one million  $BTC  have never moved.
+1601330	bitcoin	1	11	0	0	3.5	1532836	1471	recent@bitcoin_Mining|top@bitcoin_Mining		My POW Blockparty #45
+1600848	AI	1	11	0	0	24.4	280679	23851	recent@AI		Bank stocks crashed by $22 billion after AI access scare
+1601300	bitcoin	1	0	0	0	7.1	296825	5696	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		What $500m (BTC) hacks teach us about the future of self custody | ANK
+1601196	nostr	1	0	0	0	13.4	1054143	1451	recent@devs|top@devs		Something most Nostr devs don't know: in the EU, iPhone apps.
+1600710	tech	1	0	0	1	30.8	296825	5696	recent@devs		HOW A ONE PHP LEAK AFFECTED 5 COUNTRIES AND THE EU IN A SINGLE DAY
