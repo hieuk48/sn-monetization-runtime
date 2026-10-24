@@ -1,11 +1,9 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-24T08:41:22.399Z; n=40
-bitcoin	sn:AskSN,sn:bitcoin,sn:bitcoin_Mining	9.34	yes	
-kimi	hn,sn:tech	5.89	yes	
-pro highspeed	hn,sn:tech	5.89	yes	
-latest strikes	sn:bitcoin	3.92	yes	
-october	sn:bitcoin	3.92	yes	
-bitcoin optech newsletter	sn:bitcoin	3.35	yes	
+# generated 2026-10-24T13:50:58.509Z; n=40
+bitcoin	sn:AskSN,sn:bitcoin,sn:bitcoin_Mining	9.4	yes	
+kimi	hn,sn:tech	5.93	yes	
+pro highspeed	hn,sn:tech	5.93	yes	
+tracker	hn,sn:tech	4.87	yes	
 on entropy	sn:math	3.21	yes	
 probability	sn:math	3.21	yes	
 randomness	sn:math	3.21	yes	
@@ -16,27 +14,29 @@ square	sn:bitcoin	3.2	yes
 ayaan hirsi ali	sn:Politics_And_Law	3.18	no	RISING
 france	sn:Politics_And_Law	3.18	no	RISING
 muslim	sn:Politics_And_Law	3.18	no	RISING
+local wikipedia	hn	3.16	no	RISING
+wikipedia	hn	3.16	no	RISING
 gretzky	sn:Stacker_Sports	3.16	no	RISING
 oiler	sn:Stacker_Sports	3.16	no	RISING
-local wikipedia	hn	3.14	no	RISING
-wikipedia	hn	3.14	no	RISING
+what	sn:AskSN	3.14	yes	
 the mega bears loom	sn:Stacker_Stocks	3.13	no	RISING
 traditional markets	sn:Stacker_Stocks	3.13	no	RISING
 robert armstrong	sn:Stacker_Stocks	3.13	no	RISING
-invest like	sn:trading	3.07	no	RISING
-university endowments	sn:trading	3.07	no	RISING
-specer jakab	sn:trading	3.07	no	RISING
 msty	sn:Stacker_Stocks	3.07	no	RISING
 payout	sn:Stacker_Stocks	3.07	no	RISING
 the points guy pays out	sn:Stacker_Stocks	3.07	no	RISING
+invest like	sn:trading	3.07	no	RISING
+university endowments	sn:trading	3.07	no	RISING
+specer jakab	sn:trading	3.07	no	RISING
 updating	sn:charts_and_maps	3.03	no	RISING
 live	sn:charts_and_maps	3.03	yes	
 censys	sn:charts_and_maps	3.03	no	RISING
 tracking dashboard	sn:charts_and_maps	3.03	no	RISING
 chinese	sn:bitcoin	3.03	yes	
 early bitcoin books	sn:BooksAndArticles	3.01	no	RISING
-bitcoin core changes security policy amid	sn:bitcoin	3.01	yes	
-risks	sn:bitcoin	3.01	yes	
 world series	sn:Stacker_Sports	3	no	RISING
 game	sn:Stacker_Sports	3	no	RISING
 discussion thread	sn:Stacker_Sports	3	no	RISING
+today	hn	2.98	no	RISING
+against supplements	sn:HealthAndFitness	2.97	no	RISING
+works	sn:HealthAndFitness	2.97	no	RISING
