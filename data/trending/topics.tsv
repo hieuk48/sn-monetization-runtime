@@ -1,24 +1,28 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-24T18:36:25.352Z; n=40
-bitcoin	sn:AskSN,sn:bitcoin	6.47	yes	
-game	sn:Stacker_Sports	5.82	no	RISING
-http	hn,sn:tech	5.08	yes	
-python	hn,sn:tech	5.04	yes	
+# generated 2026-10-25T00:01:15.097Z; n=40
+what	sn:AskSN,sn:econ	6.24	yes	
+game	sn:Stacker_Sports	5.84	no	RISING
+http	hn,sn:tech	5.19	yes	
+listen	hn,sn:Music	4.99	no	RISING
+python	hn,sn:tech	4.5	yes	
+plenty	sn:bitcoin	4.07	yes	
 against supplements	sn:HealthAndFitness	3.59	no	RISING
 works	sn:HealthAndFitness	3.59	no	RISING
 progress	sn:HealthAndFitness	3.59	no	RISING
 ben southwood	sn:HealthAndFitness	3.59	no	RISING
-lodging	sn:BooksAndArticles	3.48	no	RISING
-wayfaring men book club	sn:BooksAndArticles	3.48	no	RISING
-chapter	sn:BooksAndArticles	3.48	no	RISING
+lodging	sn:BooksAndArticles	3.49	no	RISING
+wayfaring men book club	sn:BooksAndArticles	3.49	no	RISING
+chapter	sn:BooksAndArticles	3.49	no	RISING
 labor economics	sn:Politics_And_Law	3.38	no	RISING
 enrich	sn:Politics_And_Law	3.38	no	RISING
 workers	sn:Politics_And_Law	3.38	no	RISING
-tried	sn:bitcoin	3.2	yes	
-square	sn:bitcoin	3.2	yes	
-local wikipedia	hn	3.18	no	RISING
-wikipedia	hn	3.18	no	RISING
-what	sn:AskSN	3.17	yes	
+bitcoin	sn:AskSN	3.27	yes	
+local wikipedia	hn	3.19	no	RISING
+wikipedia	hn	3.19	no	RISING
+tucker carlson	sn:Politics_And_Law	3.16	no	RISING
+maga	sn:Politics_And_Law	3.16	no	RISING
+outcast	sn:Politics_And_Law	3.16	no	RISING
+abigail hauslohner	sn:Politics_And_Law	3.16	no	RISING
 rich people	sn:Politics_And_Law	3.11	no	RISING
 problems	sn:Politics_And_Law	3.11	no	RISING
 boomer	sn:Politics_And_Law	3.11	no	RISING
@@ -27,16 +31,12 @@ james max	sn:Politics_And_Law	3.11	no	RISING
 msty	sn:Stacker_Stocks	3.09	no	RISING
 payout	sn:Stacker_Stocks	3.09	no	RISING
 the points guy pays out	sn:Stacker_Stocks	3.09	no	RISING
-plenty	sn:bitcoin	3.04	yes	
-chinese	sn:bitcoin	3.03	yes	
+looking	sn:bitcoin	3.04	yes	
+lightning	sn:bitcoin	3.04	yes	
 bitaxe naja duo opinions	sn:bitcoin_Mining	3.03	no	RISING
-kimi	hn	3.02	yes	
-pro highspeed	hn	3.02	yes	
-today	hn	3.02	no	RISING
-zapboard	sn:bitcoin	3.01	yes	
-outbid	sn:bitcoin	3.01	yes	
 world series	sn:Stacker_Sports	3	no	RISING
 discussion thread	sn:Stacker_Sports	3	no	RISING
-people	sn:tech	2.97	yes	
-claude	sn:tech	2.97	yes	
-books	sn:BooksAndArticles	2.97	no	RISING
+zapclub	sn:Music	2.99	no	RISING
+bring	sn:Music	2.99	no	RISING
+take	sn:Music	2.99	no	RISING
+people	sn:tech	2.98	yes	
