@@ -1,10 +1,7 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-25T00:01:15.097Z; n=40
+# generated 2026-10-25T08:58:16.506Z; n=40
 what	sn:AskSN,sn:econ	6.24	yes	
-game	sn:Stacker_Sports	5.84	no	RISING
-http	hn,sn:tech	5.19	yes	
-listen	hn,sn:Music	4.99	no	RISING
-python	hn,sn:tech	4.5	yes	
+http	hn,sn:tech	5.25	yes	
 plenty	sn:bitcoin	4.07	yes	
 against supplements	sn:HealthAndFitness	3.59	no	RISING
 works	sn:HealthAndFitness	3.59	no	RISING
@@ -16,9 +13,10 @@ chapter	sn:BooksAndArticles	3.49	no	RISING
 labor economics	sn:Politics_And_Law	3.38	no	RISING
 enrich	sn:Politics_And_Law	3.38	no	RISING
 workers	sn:Politics_And_Law	3.38	no	RISING
-bitcoin	sn:AskSN	3.27	yes	
-local wikipedia	hn	3.19	no	RISING
-wikipedia	hn	3.19	no	RISING
+saturday	sn:Photography	3.21	no	RISING
+share	sn:Photography	3.21	no	RISING
+local wikipedia	hn	3.2	no	RISING
+wikipedia	hn	3.2	no	RISING
 tucker carlson	sn:Politics_And_Law	3.16	no	RISING
 maga	sn:Politics_And_Law	3.16	no	RISING
 outcast	sn:Politics_And_Law	3.16	no	RISING
@@ -28,15 +26,17 @@ problems	sn:Politics_And_Law	3.11	no	RISING
 boomer	sn:Politics_And_Law	3.11	no	RISING
 expensive	sn:Politics_And_Law	3.11	no	RISING
 james max	sn:Politics_And_Law	3.11	no	RISING
-msty	sn:Stacker_Stocks	3.09	no	RISING
-payout	sn:Stacker_Stocks	3.09	no	RISING
-the points guy pays out	sn:Stacker_Stocks	3.09	no	RISING
 looking	sn:bitcoin	3.04	yes	
 lightning	sn:bitcoin	3.04	yes	
+kimi	hn	3.03	yes	
+pro highspeed	hn	3.03	yes	
 bitaxe naja duo opinions	sn:bitcoin_Mining	3.03	no	RISING
-world series	sn:Stacker_Sports	3	no	RISING
-discussion thread	sn:Stacker_Sports	3	no	RISING
-zapclub	sn:Music	2.99	no	RISING
-bring	sn:Music	2.99	no	RISING
-take	sn:Music	2.99	no	RISING
-people	sn:tech	2.98	yes	
+the end game username you own everywhere	sn:bitcoin	3.02	yes	
+spaces cofounder buffrr	sn:bitcoin	3.02	yes	
+is wemby	sn:Stacker_Sports	3.01	no	RISING
+zapclub	sn:Music	3.01	no	RISING
+bring	sn:Music	3.01	no	RISING
+take	sn:Music	3.01	no	RISING
+listen	sn:Music	3.01	no	RISING
+zapboard	sn:bitcoin	3.01	yes	
+outbid	sn:bitcoin	3.01	yes	
